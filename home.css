@@ -31,8 +31,10 @@ a {
 }
 
 a:hover {
-    color: lightgrey;
+    color: black;
     text-decoration: none;
+    text-shadow: 2px 2px 100px #white;
+    transition: 2s;
 }
 
 .jumbotron {
