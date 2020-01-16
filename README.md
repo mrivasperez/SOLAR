@@ -1,4 +1,4 @@
-# SOLAR, A website to explore the solar system.
+# SOLAR: A website to explore the solar system.
 by mrivasperez. live demo: <https://mrivasperez.github.io/SOLAR/>
 
 ## Description
