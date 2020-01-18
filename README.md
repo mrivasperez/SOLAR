@@ -1,6 +1,7 @@
 # SOLAR: A website to explore the solar system.
 by mrivasperez. live demo: <https://mrivasperez.github.io/SOLAR/>
-
+## Screenshot
+![A screenshot of Chrome viewing the Sun page of SOLAR](screenshot.png)
 ## Description
 SOLAR is a modern, dynamic website about the Solar System. I created it when I was first exploring web development (hence the unuptimized, large images). It has a landing page that provides (index.html in root folder) brief information about the Solar System and greets the user with a page about the Sun when they click "ENTER" or "SOLAR." Once the user has entered the site they may learn more about other planets in the Solar System by clicking on their name in the navigation bar. I  developed this site using HTML, CSS (custom sheets, Flexbox, Bootstrap), and Vanilla JS (for navigation bar animations).
 
