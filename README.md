@@ -8,7 +8,7 @@ SOLAR is a modern, dynamic website about the Solar System. I created it when I w
 ## Installation
 To load this webpage locally, download the files as a zip file. Create a new folder in your system then drag and drop the contents of the zip file to that folder. Doouble click "index.html" to open the page.
 
-## Usage
+## How to Use
 When the user first begins to use the SOLAR page they will be greeted by the landing page. The landing page provides the user with information about the Solar System. To begin exploring the Solar System, the user must click "SOLAR" or "ENTER." Upon clicking either link, will be taken to the page about the Sun. The user can browse the site and learn about other planets by using the navigation menu.
 
 ## Credits
